@@ -33,7 +33,7 @@ import mysql.connector as mysql
 # TODO change...
 # mysqldb connection
 #  DB_HOST = "172.17.0.2"
-DB_HOST = "localhost"
+DB_HOST = "minitwit_mysql"
 DB_PORT = 3306
 DB_USER = "root"
 DB_PASSWORD = "root"
